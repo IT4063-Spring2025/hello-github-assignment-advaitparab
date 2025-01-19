@@ -25,15 +25,20 @@ Make sure you follow the instructions carefully. You will be asked to complete a
 ## 💭 Reflection and Self Assessment
 
 **I learned:** (repeat as needed)
-- .
+- How to use Git and GitHub for version control and manage files efficiently in a repository.
+The difference between staging (git add), committing (git commit), and pushing (git push).
+How to clone a repository and work with starter files in GitHub Classroom.
 
 **I struggled with:** (repeat as needed)
-- .
+- Understanding the difference between committing locally and pushing to the remote repository at first.
+Remembering to write clear and descriptive commit messages for each change.
+Getting comfortable with the command-line Git commands instead of relying on GitHub Desktop.
 
 **I need the instructor to help me with:** (repeat as needed)
-- .
+- Best practices for managing repositories when collaborating with multiple contributors.
+How to resolve conflicts that might occur during a merge or push operation.
 
-**💯 Self Grade:** For this assignment, based on my work and my reflections I should get [ ] out of 20.
+**💯 Self Grade:** For this assignment, based on my work and my reflections I should get 20 out of 20.
 
 
 ## 📚 References and Citations
